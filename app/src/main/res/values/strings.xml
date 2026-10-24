@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Catálogo de Filmes e Séries</string>
+    <string name="screen_movie_list_title">Catálogo de Filmes e Séries</string>
+    <string name="screen_movie_detail_title">Detalhes do Item</string>
+    <string name="screen_movie_create_title">Novo Cadastro</string>
+    <string name="screen_movie_edit_title">Editar Item</string>
+
+    <string name="empty_movie_list">Nenhum título cadastrado ainda</string>
+    <string name="add_movie_content_desc">Adicionar filme ou série</string>
+    <string name="back_content_desc">Voltar</string>
+    <string name="edit_content_desc">Editar</string>
+    <string name="delete_content_desc">Excluir</string>
+
+    <string name="label_title">Título *</string>
+    <string name="label_genre">Gênero</string>
+    <string name="label_description">Descrição</string>
+    <string name="label_type">Tipo</string>
+    <string name="type_movie">Filme</string>
+    <string name="type_series">Série</string>
+
+    <string name="button_save">Salvar</string>
+    <string name="button_edit">Editar</string>
+    <string name="button_delete">Excluir</string>
+    <string name="button_cancel">Cancelar</string>
+
+    <string name="error_title_required">O título não pode estar vazio</string>
+    <string name="error_movie_not_found">Item não encontrado</string>
+
+    <string name="delete_dialog_title">Confirmar exclusão</string>
+    <string name="delete_dialog_message">Tem certeza de que deseja excluir este título do catálogo?</string>
+</resources>

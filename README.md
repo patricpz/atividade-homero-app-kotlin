@@ -132,20 +132,11 @@ As versões exatas de cada biblioteca estão no arquivo `gradle/libs.versions.to
 **Requisitos:** Android Studio (versão atual), JDK compatível com o Gradle do projeto e um emulador ou dispositivo Android.
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/<seu-usuario>/<nome-do-repositorio>.git
-   ```
 2. Abra a pasta no Android Studio.
 3. Aguarde a sincronização do Gradle.
 4. Execute o app no emulador ou dispositivo com o botão **Run**.
 
 ---
-
-## Capturas de tela
-
-| Lista | Detalhes | Cadastro |
-|:---:|:---:|:---:|
-| `[imagem]` | `[imagem]` | `[imagem]` |
 
 ---
 
@@ -154,8 +145,7 @@ As versões exatas de cada biblioteca estão no arquivo `gradle/libs.versions.to
 - Os dados são armazenados apenas no dispositivo. Não há sincronização com a nuvem nem consulta a APIs externas de filmes.
 - Não há autenticação de usuário, pois não era um requisito da atividade.
 - A exclusão é definitiva e não há desfazer.
-- `[Adicione aqui qualquer dificuldade encontrada ou ponto que queira destacar.]`
 
 ---
 
-*Projeto desenvolvido por `[Seu nome]` como atividade final do módulo de desenvolvimento Android.*
+*Projeto desenvolvido por `Patric Araujo Barros` como atividade final do módulo de desenvolvimento Android.*

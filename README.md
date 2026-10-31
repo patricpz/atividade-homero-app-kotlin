@@ -9,7 +9,7 @@ Projeto final do módulo de desenvolvimento Android.
 ## Identificação
 
 - **Aluno:** `Patric Araujo Barros`
-- **Matrícula:** `[Sua matrícula]`
+- **Matrícula:** `20241015020150`
 - **Data de entrega:** `30/10/2026`
 
 ---

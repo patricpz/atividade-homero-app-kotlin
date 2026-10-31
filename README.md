@@ -10,7 +10,7 @@ Projeto final do módulo de desenvolvimento Android.
 
 - **Aluno:** `Patric Araujo Barros`
 - **Matrícula:** `[Sua matrícula]`
-- **Data de entrega:** `27/10/2026`
+- **Data de entrega:** `30/10/2026`
 
 ---
 
